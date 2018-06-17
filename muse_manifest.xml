@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="hd.ru" resolutions="1x" timestamp="1529240871694">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_______-a.css" crc="31364997" ref="index"/>
+    <file name="index.css" crc="357849173" ref="index"/>
+    <file name="iefonts_index.css" crc="4047996354" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="3849126041" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="img_20170720_10см0511.jpg" crc="526020358" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="совплим.jpg" crc="3925100990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3778494775" seo="true" mt="1529240871420" redirect="true"/>
+</manifest>
