@@ -1,9 +1,16 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1529505139336">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1529508421009">
+  <folder name="fonts">
+    <file name="roboto-medium.woff" crc="4115950111"/>
+    <file name="roboto-medium.eot" crc="251443139"/>
+    <file name="roboto-medium.svg" crc="4139042884"/>
+    <file name="roboto-black.woff" crc="388774813"/>
+    <file name="roboto-black.eot" crc="4167396660"/>
+    <file name="roboto-black.svg" crc="3967395432"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="31364997" ref="index"/>
-    <file name="index.css" crc="290332851" ref="index"/>
-    <file name="iefonts_index.css" crc="4047996354" ref="index"/>
+    <file name="master_______-a.css" crc="3997594819" ref="index"/>
+    <file name="index.css" crc="3833725134" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -22,5 +29,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="19412125" seo="true" mt="1529504805638" redirect="true"/>
+  <file name="index.html" crc="396982836" seo="true" mt="1529508399307" redirect="true"/>
 </manifest>
