@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1529508421009">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1529509011635">
   <folder name="fonts">
     <file name="roboto-medium.woff" crc="4115950111"/>
     <file name="roboto-medium.eot" crc="251443139"/>
@@ -6,11 +6,17 @@
     <file name="roboto-black.woff" crc="388774813"/>
     <file name="roboto-black.eot" crc="4167396660"/>
     <file name="roboto-black.svg" crc="3967395432"/>
+    <file name="roboto-bold.woff" crc="74621927"/>
+    <file name="roboto-bold.eot" crc="395037782"/>
+    <file name="roboto-bold.svg" crc="435940150"/>
+    <file name="roboto-regular.woff" crc="232793542"/>
+    <file name="roboto-regular.eot" crc="197016122"/>
+    <file name="roboto-regular.svg" crc="4129213233"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="3997594819" ref="index"/>
-    <file name="index.css" crc="3833725134" ref="index"/>
+    <file name="master_______-a.css" crc="4004181981" ref="index"/>
+    <file name="index.css" crc="4238796021" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -29,5 +35,5 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="396982836" seo="true" mt="1529508399307" redirect="true"/>
+  <file name="index.html" crc="4233827025" seo="true" mt="1529509001561" redirect="true"/>
 </manifest>
