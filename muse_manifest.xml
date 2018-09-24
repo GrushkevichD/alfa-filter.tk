@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1537798402272">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1537799319475">
   <folder name="fonts">
     <file name="roboto-medium.woff" crc="4115950111"/>
     <file name="roboto-medium.eot" crc="251443139"/>
@@ -263,6 +263,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="картриджи-альфа-сибирь-favicon.ico" crc="3801256245" ref="index"/>
   </folder>
-  <file name="index.html" crc="360797940" seo="true" mt="1537798345780" redirect="true"/>
+  <file name="index.html" crc="4215686677" seo="true" mt="1537799310092" redirect="true"/>
 </manifest>
