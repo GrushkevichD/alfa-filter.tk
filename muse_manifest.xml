@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1537799319475">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1540396034828">
   <folder name="fonts">
     <file name="roboto-medium.woff" crc="4115950111"/>
     <file name="roboto-medium.eot" crc="251443139"/>
@@ -15,8 +15,8 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="3830365212" ref="index"/>
-    <file name="index.css" crc="4132825775" ref="index"/>
+    <file name="master_______-a.css" crc="145799313" ref="index"/>
+    <file name="index.css" crc="4258555693" ref="index"/>
     <file name="iefonts_index.css" crc="82713088" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -36,16 +36,16 @@
     <file name="img_20170720_10см0511.jpg" crc="298549913" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="совплим.jpg" crc="59604878" seo="true" ref="index">
+    <file name="совплим.jpg" crc="3937074852" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="хэ2.jpg" crc="387286209" seo="true" ref="index">
+    <file name="хэ2.jpg" crc="4252163076" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="к2.jpg" crc="4143749602" seo="true" ref="index">
+    <file name="к2.jpg" crc="4017784879" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="вл.jpg" crc="135718185" seo="true" ref="index">
+    <file name="вл.jpg" crc="394805279" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="декларация 2017 фильтры картриджи.jpg" crc="4210924548" seo="true" ref="index">
@@ -265,5 +265,5 @@
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="картриджи-альфа-сибирь-favicon.ico" crc="3801256245" ref="index"/>
   </folder>
-  <file name="index.html" crc="4215686677" seo="true" mt="1537799310092" redirect="true"/>
+  <file name="index.html" crc="4278931844" seo="true" mt="1540395797826" redirect="true"/>
 </manifest>
