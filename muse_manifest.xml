@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1540565160835">
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="alfa-filter.tk" resolutions="1x" timestamp="1540565761384">
   <folder name="fonts">
     <file name="roboto-medium.woff" crc="4115950111"/>
     <file name="roboto-medium.eot" crc="251443139"/>
@@ -15,156 +15,202 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_______-a.css" crc="388465451" ref="index"/>
+    <file name="master_______-a.css" crc="388465451" ref="index:donaldson"/>
     <file name="index.css" crc="517018203" ref="index"/>
     <file name="iefonts_index.css" crc="82713088" ref="index"/>
+    <file name="donaldson.css" crc="4167938060" ref="donaldson"/>
+    <file name="iefonts_donaldson.css" crc="3845815036" ref="donaldson"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="3849126041" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:donaldson"/>
+    <file name="museutils.js" crc="4232573551" ref="index:donaldson"/>
+    <file name="whatinput.js" crc="86476730" ref="index:donaldson"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:donaldson"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index:donaldson"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:donaldson"/>
+    <file name="require.js" crc="4234670167" ref="index:donaldson"/>
+    <file name="webpro.js" crc="3770351119" ref="index:donaldson"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index:donaldson"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index:donaldson"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index:donaldson"/>
   </folder>
   <folder name="images">
-    <file name="img_20170720_10см0511.jpg" crc="298549913" ref="index">
+    <file name="img_20170720_10см0511.jpg" crc="298549913" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="совплим.jpg" crc="500726507" seo="true" ref="index">
+    <file name="совплим.jpg" crc="500726507" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="хэ2.jpg" crc="4252163076" seo="true" ref="index">
+    <file name="хэ2.jpg" crc="4252163076" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="к2.jpg" crc="4017784879" seo="true" ref="index">
+    <file name="к2.jpg" crc="4017784879" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="вл.jpg" crc="394805279" seo="true" ref="index">
+    <file name="вл.jpg" crc="394805279" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="декларация 2017 фильтры картриджи.jpg" crc="4210924548" seo="true" ref="index">
+    <file name="декларация 2017 фильтры картриджи.jpg" crc="4210924548" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="11.jpg" crc="3878831786" seo="true" ref="index">
+    <file name="11.jpg" crc="3878831786" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="44.jpg" crc="296314278" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:donaldson"/>
+    <file name="44.jpg" crc="296314278" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="22.jpg" crc="4232965069" seo="true" ref="index">
+    <file name="22.jpg" crc="4232965069" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121613.jpg" crc="3910636463" seo="true" ref="index">
+    <file name="img_20180618_121613.jpg" crc="3910636463" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121632.jpg" crc="4214790010" seo="true" ref="index">
+    <file name="img_20180618_121632.jpg" crc="4214790010" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121848.jpg" crc="472853293" seo="true" ref="index">
+    <file name="img_20180618_121848.jpg" crc="472853293" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121955.jpg" crc="415649018" seo="true" ref="index">
+    <file name="img_20180618_121955.jpg" crc="415649018" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="dsc_0450-min.jpg" crc="96987601" seo="true" ref="index">
+    <file name="dsc_0450-min.jpg" crc="96987601" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="dsc_0451-min.jpg" crc="79244176" seo="true" ref="index">
+    <file name="dsc_0451-min.jpg" crc="79244176" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="dsc_0452-min.jpg" crc="3900858705" seo="true" ref="index">
+    <file name="dsc_0452-min.jpg" crc="3900858705" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="плоский1.jpg" crc="471028811" seo="true" ref="index">
+    <file name="плоский1.jpg" crc="471028811" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_122922.jpg" crc="246689004" seo="true" ref="index">
+    <file name="img_20180618_122922.jpg" crc="246689004" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_123201.jpg" crc="191351183" seo="true" ref="index">
+    <file name="img_20180618_123201.jpg" crc="191351183" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20160427_112842.jpg" crc="4086197368" seo="true" ref="index">
+    <file name="img_20160427_112842.jpg" crc="4086197368" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20160427_113006.jpg" crc="4210181603" seo="true" ref="index">
+    <file name="img_20160427_113006.jpg" crc="4210181603" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20171004_121547.jpg" crc="442089520" seo="true" ref="index">
+    <file name="img_20171004_121547.jpg" crc="442089520" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20171004_121602.jpg" crc="497540579" seo="true" ref="index">
+    <file name="img_20171004_121602.jpg" crc="497540579" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121130.jpg" crc="303601719" seo="true" ref="index">
+    <file name="img_20180618_121130.jpg" crc="303601719" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121143.jpg" crc="4231125612" seo="true" ref="index">
+    <file name="img_20180618_121143.jpg" crc="4231125612" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121209.jpg" crc="369353019" seo="true" ref="index">
+    <file name="img_20180618_121209.jpg" crc="369353019" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121226.jpg" crc="4012530466" seo="true" ref="index">
+    <file name="img_20180618_121226.jpg" crc="4012530466" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121235.jpg" crc="403092621" seo="true" ref="index">
+    <file name="img_20180618_121235.jpg" crc="403092621" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_121320.jpg" crc="4037299337" seo="true" ref="index">
+    <file name="img_20180618_121320.jpg" crc="4037299337" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_122055.jpg" crc="120076070" seo="true" ref="index">
+    <file name="img_20180618_122055.jpg" crc="120076070" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114453.jpg" crc="4192642452" seo="true" ref="index">
+    <file name="img_20180618_114453.jpg" crc="4192642452" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114504.jpg" crc="3885698062" seo="true" ref="index">
+    <file name="img_20180618_114504.jpg" crc="3885698062" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114516.jpg" crc="3897229038" seo="true" ref="index">
+    <file name="img_20180618_114516.jpg" crc="3897229038" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114601.jpg" crc="4158117896" seo="true" ref="index">
+    <file name="img_20180618_114601.jpg" crc="4158117896" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114858.jpg" crc="3975714481" seo="true" ref="index">
+    <file name="img_20180618_114858.jpg" crc="3975714481" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_114924.jpg" crc="4111272105" seo="true" ref="index">
+    <file name="img_20180618_114924.jpg" crc="4111272105" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_115308.jpg" crc="3935909188" seo="true" ref="index">
+    <file name="img_20180618_115308.jpg" crc="3935909188" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="p1140057.jpg" crc="3855371156" seo="true" ref="index">
+    <file name="p1140057.jpg" crc="3855371156" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="p1140059.jpg" crc="118057710" seo="true" ref="index">
+    <file name="p1140059.jpg" crc="118057710" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="p1140079.jpg" crc="131186887" seo="true" ref="index">
+    <file name="p1140079.jpg" crc="131186887" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_122009.jpg" crc="3880059542" seo="true" ref="index">
+    <file name="img_20180618_122009.jpg" crc="3880059542" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="1174x55.jpg" crc="4250818564" seo="true" ref="index">
+    <file name="1174x55.jpg" crc="4250818564" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="4475x56.jpg" crc="4026404404" seo="true" ref="index">
+    <file name="4475x56.jpg" crc="4026404404" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="2275x56.jpg" crc="4170447331" seo="true" ref="index">
+    <file name="2275x56.jpg" crc="4170447331" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20180618_121613-crop-u2278.jpg" crc="4100836534" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -172,29 +218,34 @@
     <file name="img_20180618_121632-crop-u2653.jpg" crc="327145874" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_12184874x56.jpg" crc="4222767471" seo="true" ref="index">
+    <file name="img_20180618_12184874x56.jpg" crc="4222767471" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20180618_121955-crop-u2757.jpg" crc="198472005" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0450-min83x55.jpg" crc="285048954" seo="true" ref="index">
+    <file name="dsc_0450-min83x55.jpg" crc="285048954" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="dsc_0451-min-crop-u4105.jpg" crc="4101727723" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dsc_0452-min83x55.jpg" crc="4192512930" seo="true" ref="index">
+    <file name="dsc_0452-min83x55.jpg" crc="4192512930" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="плоский1-crop-u4145.jpg" crc="4018919850" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_12292274x56.jpg" crc="476455388" seo="true" ref="index">
+    <file name="img_20180618_12292274x56.jpg" crc="476455388" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_12320174x56.jpg" crc="3978020184" seo="true" ref="index">
+    <file name="img_20180618_12320174x56.jpg" crc="3978020184" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20160427_112842-crop-u4239.jpg" crc="4240711402" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -205,8 +256,9 @@
     <file name="img_20171004_121547-crop-u4302.jpg" crc="3857408865" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20171004_12160274x56.jpg" crc="293738797" seo="true" ref="index">
+    <file name="img_20171004_12160274x56.jpg" crc="293738797" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20180618_121130-crop-u3630.jpg" crc="140828158" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -214,20 +266,24 @@
     <file name="img_20180618_121143-crop-u3650.jpg" crc="3895207214" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_12120974x56.jpg" crc="97754281" seo="true" ref="index">
+    <file name="img_20180618_12120974x56.jpg" crc="97754281" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_12122674x56.jpg" crc="111493617" seo="true" ref="index">
+    <file name="img_20180618_12122674x56.jpg" crc="111493617" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_12123574x56.jpg" crc="195864993" seo="true" ref="index">
+    <file name="img_20180618_12123574x56.jpg" crc="195864993" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20180618_121320-crop-u3730.jpg" crc="509925627" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_12205574x56.jpg" crc="220964113" seo="true" ref="index">
+    <file name="img_20180618_12205574x56.jpg" crc="220964113" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="img_20180618_114453-crop-u3826.jpg" crc="3924658619" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -235,23 +291,29 @@
     <file name="img_20180618_114504-crop-u3846.jpg" crc="4008589161" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_11451674x56.jpg" crc="400804772" seo="true" ref="index">
+    <file name="img_20180618_11451674x56.jpg" crc="400804772" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_11460174x56.jpg" crc="362628794" seo="true" ref="index">
+    <file name="img_20180618_11460174x56.jpg" crc="362628794" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_11485874x56.jpg" crc="321514308" seo="true" ref="index">
+    <file name="img_20180618_11485874x56.jpg" crc="321514308" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_11492474x56.jpg" crc="4255240101" seo="true" ref="index">
+    <file name="img_20180618_11492474x56.jpg" crc="4255240101" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="img_20180618_11530874x56.jpg" crc="347445768" seo="true" ref="index">
+    <file name="img_20180618_11530874x56.jpg" crc="347445768" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="p114005774x56.jpg" crc="4065035679" seo="true" ref="index">
+    <file name="p114005774x56.jpg" crc="4065035679" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
     <file name="p1140059-crop-u4014.jpg" crc="3846136381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -259,11 +321,59 @@
     <file name="p1140079-crop-u4034.jpg" crc="255860765" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_20180618_12200974x56.jpg" crc="52370284" seo="true" ref="index">
+    <file name="img_20180618_12200974x56.jpg" crc="52370284" seo="true" ref="index:donaldson">
       <caption webpage="index" alt=""/>
+      <caption webpage="donaldson" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="картриджи-альфа-сибирь-favicon.ico" crc="3801256245" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:donaldson"/>
+    <file name="sovplym-favicon.ico" crc="3801256245" ref="index"/>
+    <file name="donaldson-favicon.ico" crc="3801256245" ref="donaldson"/>
+    <file name="img_20180618_121613-crop-u7379.jpg" crc="4100836534" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_121632-crop-u7371.jpg" crc="327145874" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_121955-crop-u7431.jpg" crc="198472005" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="dsc_0451-min-crop-u7433.jpg" crc="4101727723" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="плоский1-crop-u7387.jpg" crc="4018919850" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20160427_112842-crop-u7423.jpg" crc="4240711402" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20160427_113006-crop-u7393.jpg" crc="399611351" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20171004_121547-crop-u7419.jpg" crc="3857408865" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_121130-crop-u7429.jpg" crc="140828158" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_121143-crop-u7409.jpg" crc="3895207214" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_121320-crop-u7411.jpg" crc="509925627" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_114453-crop-u7391.jpg" crc="3924658619" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="img_20180618_114504-crop-u7415.jpg" crc="4008589161" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="p1140059-crop-u7381.jpg" crc="3846136381" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
+    <file name="p1140079-crop-u7377.jpg" crc="255860765" seo="true" ref="donaldson">
+      <caption webpage="donaldson" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4097426200" seo="true" mt="1540475172162" redirect="true"/>
+  <file name="index.html" crc="277961912" seo="true" mt="1540565606556" redirect="true"/>
+  <file name="donaldson.html" crc="4210894884" seo="true" mt="1540565753177" redirect="true"/>
 </manifest>
